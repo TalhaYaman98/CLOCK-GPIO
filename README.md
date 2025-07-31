@@ -4,7 +4,7 @@ STM32F407 Discovery kartı için sadece CMSIS kütüphanesi kullanarak sistem cl
 
 🎯 Proje Amacı
 
-Bu proje, STM32F407VG mikroişlemcisinde:
+Bu proje, STM32F407VGT6 mikroişlemcisinde:
 - **HSE + PLL ile 168MHz sistem saati** elde etme
 - **GPIO PD12 pin kontrolü** (Discovery kartı yeşil LED)
 - **SysTick timer ile hassas gecikme** fonksiyonu
